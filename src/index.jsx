@@ -6,7 +6,7 @@ import { Square } from "./App";
 
 const root = createRoot(document.getElementById("root"));
 root.render(
-  <StrictMode>
-    <Square />
-  </StrictMode>
+	<StrictMode>
+		<Square />
+	</StrictMode>,
 );
